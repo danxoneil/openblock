@@ -37,6 +37,8 @@ About this project
 ==================
 
 This is merely a set of code and issues as a way to capture some thinking about
-what a block-level or address-level information service might look like. There
-are lots of projects in Chicago that tangentially relate to this concept. I 
-welcome input!
+what a block-level or address-level information service might look like. My initial 
+method was to create issues based on new site features that were announced on the 
+EveryBlock blog since it first released the code that formed the base of OpenBlock.
+In my current position, I am involved with lots of projects in Chicago that tangentially
+relate to civic information in urban environments. I welcome input!
