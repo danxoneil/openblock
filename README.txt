@@ -36,6 +36,7 @@ development of OpenBlock has been provided by the Knight Foundation
 About this project
 ==================
 
-No one is actively working on this project. This is merely a set of code and issues 
-as a way to capture some thinking about how a block-level or address-level
-information service might look like.
+This is merely a set of code and issues as a way to capture some thinking about
+what a block-level or address-level information service might look like. There
+are lots of project in Chicago that tangentially relate to this concept. I 
+welcome input!
