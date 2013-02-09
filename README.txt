@@ -1,3 +1,15 @@
+Following is a list of features created for EveryBlock.com since EveryBlock source code was released on June 30, 2009. These are the elements that would have to be added to the OpenBlock code to get to where EveryBlock was on the day it was removed from the Internet. Most are pretty straightforward. The exception is the redesign around neighbor messages-- this was a lot of work with many nuances. Fork here: https://github.com/smartchicago/openblock.
+
+This is a repository for OpenBlock code with a set of issues associated with it. The issues all describe features created for EveryBlock.com since EveryBlock source code was released on June 30, 2009 (http://blog.everyblock.com/2009/jun/30/source/).
+
+Issues labeled "bug" are the features that would have to be added to the OpenBlock code to get to where EveryBlock was on the day it was removed from the Internet (http://blog.everyblock.com/2013/feb/07/goodbye/).
+
+Issues labeled "enhacement" are the features that I think would be good to have in a relaunched openblock-style site. 
+
+Most issues are pretty straightforward. The exception is the redesign around neighbor messages-- this was a lot of work with many nuances.
+
+No one is actively working on this project, I just wanted to capture this info in one place if anyone were interested in the idea.
+
 =========
 OpenBlock
 =========
