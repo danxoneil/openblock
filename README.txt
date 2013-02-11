@@ -1,6 +1,6 @@
 Following is a list of features created for EveryBlock.com since EveryBlock source code was released on June 30, 2009. These are the elements that would have to be added to the OpenBlock code to get to where EveryBlock was on the day it was removed from the Internet (http://blog.everyblock.com/2013/feb/07/goodbye/)
 
-This is a repository for OpenBlock code with a set of issues associated with it. The issues all describe features created for EveryBlock.com since EveryBlock source code was released on June 30, 2009 (http://blog.everyblock.com/2009/jun/30/source/).
+This is a repository for OpenBlock code with a set of issues associated with it. The issues all describe features created for EveryBlock.com since EveryBlock source code was released on June 30, 2009 (http://blog.everyblock.com/2009/jun/30/source/). My method was to go to the EveryBlock blog archives (http://blog.everyblock.com/archives/) and organize all of the blog posts into categories. The EveryBlock team was very thorough in describing new features, and these blog posts (and in some cases, the comments) provide some great detail.  
 
 Issues labeled "bug" are the features that would have to be added to the OpenBlock code to get to where EveryBlock was on the day it was removed from the Internet (http://blog.everyblock.com/2013/feb/07/goodbye/).
 
