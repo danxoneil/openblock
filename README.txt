@@ -1,6 +1,6 @@
 This is a repository for OpenBlock code with a set of issues associated with it. The issues all describe features created for EveryBlock.com between the day EveryBlock source code was released (June 30, 2009) http://blog.everyblock.com/2009/jun/30/source/ and the day EveryBlock was removed from the Internet (February 7, 2013) http://blog.everyblock.com/2013/feb/07/goodbye/). 
 
-My method was to go to the EveryBlock blog archives (http://blog.everyblock.com/archives/) and organize all of the blog posts into categories. The EveryBlock team was very thorough in describing new features, and these blog posts (and in some cases, the comments) provide great detail.
+My method was to go to the EveryBlock blog archives (http://blog.everyblock.com/archives/) and organize all of the blog posts into categories. The EveryBlock team was very thorough in describing new features, and these blog posts (and in some cases, the comments) provide great detail. See full categorized list of blog posts here: https://docs.google.com/document/d/1zVlSb76pfUvmIUqOIMvU688ZRTCqtdjz1S4mADcMkPY/edit#.
 
 Issues labeled "bug" are the essentil features that would have to be added. The bulk of this work revolves around posts and comments, which were the main thrust of EveryBlock when it was removed. 
 
